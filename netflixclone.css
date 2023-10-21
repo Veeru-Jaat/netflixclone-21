@@ -1,0 +1,386 @@
+body{
+    background-color: rgb(1, 1, 23);
+
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+#soru{
+    height: 80px;
+}
+#soru1{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 35px;
+    background-color: black;
+    color: white;
+}
+#soru2{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 35px;
+    background-color: red;
+    color: white;
+}
+.first1{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.second{
+    height: 630px;
+    width: 1240px;
+    background-image: linear-gradient(to right,rgba(14, 14, 59, 0.736),rgba(62, 11, 11, 0.628)),url('https://assets.nflxext.com/ffe/siteui/vlv3/ceb3b1eb-2673-4dd9-a6e3-0cd7a5e130ee/7540883d-de7a-4a69-8cc6-c3885d3a2b0b/IN-en-20230522-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    margin-left: 20px;
+}
+.third{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 110px;
+}
+.third1{
+    color: white;
+    position: absolute;
+    top: 150px;
+    font-size: 78px;
+}
+.third2{
+    color: white;
+    position: absolute;
+    top: 200px;
+    font-size: 80px;
+}
+.third3{
+    color: white;
+    position: absolute;
+    top: 320px;
+    font-size: 30px;
+}
+.third4{
+    color: white;
+    position: absolute;
+    top: 380px;
+    font-size: 30px;
+}
+.third5{
+    color: white;
+    position: absolute;
+    top: 470px;
+    font-size: 20px;
+}
+#third1{
+    background-color: rgba(27, 25, 25, 0.749);
+    color: white;
+    align-items: center;
+    height: 45px;
+    padding-left: 89px;
+    padding-right: 89px;
+}
+#third2{
+    background-color: red;
+    color: white;
+    height: 53px;
+    padding-left: 62px;
+    padding-right: 62px;
+}
+.fourth{
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.fourth1{
+    position: absolute;
+    top: 700px;
+    left: 600px;
+}
+.fourth2{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+#fourth1{
+    font-size: 30px;
+
+}
+#fourth2{
+    font-size: 20px;
+
+}
+#fourth3{
+    font-size: 20px;
+    margin-top: -18px;
+
+}
+.fifth{
+    height: 6px;
+    width: 1050px;
+    background-color: grey;
+    margin-top: 200px;
+    margin-left: 150px;
+    
+}
+.sixth{
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#sixth1{
+    font-size: 30px;
+
+}
+#sixth2{
+    font-size: 20px;
+
+}
+#sixth3{
+    font-size: 20px;
+    margin-top: -18px;
+}
+.sixth2{
+    margin-left: 690px;
+    margin-top: 180px;
+}
+.sixth1{
+    margin-top: -300px;
+    margin-left: 90px;
+}
+.seventh{
+    height: 6px;
+    width: 1050px;
+    background-color: grey;
+    margin-top: 45px;
+    margin-left: 150px;
+    
+}
+.e1{  
+      color: white;
+    margin-left: 150px;
+    margin-top: 190px;
+    
+}
+#e1{
+     font-size: 30px;
+}
+#e2{
+    font-size: 20px;
+}
+#e3{
+    font-size: 20px;
+    margin-top: -18px;
+}
+#e4{
+    font-size: 20px;
+    margin-top: -18px;
+}
+.e2{ margin-left: 690px;
+    margin-top: -150px;
+    margin-right: 100px;
+}
+.ninth{
+    height: 6px;
+    width: 1050px;
+    background-color: grey;
+    margin-top: 45px;
+    margin-left: 150px;
+    
+}
+.tenth{
+
+}
+.t1{
+    color: white;
+    margin-left: 700px;
+    margin-top: 190px;
+
+}
+#t1{
+    font-size: 30px;
+}
+#t2{
+    font-size: 30px;
+}
+#t3{
+    font-size: 20px;
+    margin-top: -18px;
+}
+#t4{
+    font-size: 20px;
+    margin-top: -18px;
+}
+.t2{
+    margin-top: -310px;
+    margin-left: 40px;
+}
+.eleventh{
+    height: 6px;
+    width: 1050px;
+    background-color: grey;
+    margin-top: 45px;
+    margin-left: 150px;
+    
+}
+.e1{
+    font-size: 25px;
+    margin-left: 190px;
+    margin-top: -10px;
+}
+.h2{
+    height: 60px;
+    width: 1000px;
+    background-color:rgb(62, 62, 82);
+    margin-left: 190px;
+    margin-top: 15px;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+}
+.h3{
+    height: 60px;
+    width: 1000px;
+    background-color:rgb(62, 62, 82);
+    margin-left: 190px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+}
+.h4{
+    height: 60px;
+    width: 1000px;
+    background-color:rgb(62, 62, 82);
+    margin-left: 190px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+}
+.h5{
+    height: 60px;
+    width: 1000px;
+    background-color:rgb(62, 62, 82);
+    margin-left: 190px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+}
+.h2{
+    height: 60px;
+    width: 1000px;
+    background-color:rgb(62, 62, 82);
+    margin-left: 190px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+}
+.h6{
+    height: 60px;
+    width: 1000px;
+    background-color:rgb(62, 62, 82);
+    margin-left: 190px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+}
+.h7{
+    height: 60px;
+    width: 1000px;
+    background-color:rgb(62, 62, 82);
+    margin-left: 190px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+}
+#h1{
+    margin-left: 19px;
+}
+#h2{
+    margin-right: 19px;
+}
+#h3{
+    margin-left: 19px;
+}
+#h4{
+    margin-right: 19px;
+}
+#h5{
+    margin-left: 19px;
+}
+#h6{
+    margin-right: 19px;
+}
+#h7{
+    margin-left: 19px;
+}
+#h8{
+    margin-right: 19px;
+}
+#h9{
+    margin-left: 19px;
+}
+#h10{
+    margin-right: 19px;
+}
+#h11{
+    margin-left: 19px;
+}
+#h12{
+    margin-right: 19px;
+}
+.p1{
+    color: white;
+    margin-left: 190px;
+}
+.ki{
+margin-top: 20px;
+}
+#k2{
+    background-color: rgba(27, 25, 25, 0.749);
+    color: white;
+    align-items: center;
+    height: 45px;
+    padding-left: 89px;
+    padding-right: 89px;
+    margin-left: 190px;
+    margin-top: -70px;
+}
+#k3{
+    background-color: red;
+    color: white;
+    height: 53px;
+    padding-left: 62px;
+    padding-right: 62px;
+    margin-right: 190px;
+    margin-top: -130px;
+}
+.q1{
+    color: white;
+    margin-left: 182px;
+}
+.m1{
+    color: white;
+    margin-left: 182px;
+}
+.m2{
+    color: white;
+}
+.m3{
+    color: white;
+}
+.m4{
+    color: white;
+}
+.m{
+    display: flex;
+    justify-content: space-between;
+}
+.g{
+margin-left: 182px;
+}
+.l{
+    margin-left: 0px;
+    color: white;
+}
